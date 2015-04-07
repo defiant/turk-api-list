@@ -2,6 +2,7 @@
 Api sunan Turk site ve servislerinin listesi
 
 
+- sendloop.com (https://sendloop.com/help/api-001/getting-started) 
 - dakick.com (http://apidoc.dakick.com) 
 - gittigidiyor.com (http://dev.gittigidiyor.com)
 - kapgel.com (http://doc.kapgel.com)
