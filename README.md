@@ -1,5 +1,5 @@
 # turk-api-list
-Api sunan Turk site ve servislerinin listesi
+API sunan Turk site ve servislerinin listesi
 
 
 - sendloop.com (https://sendloop.com/help/api-001/getting-started) 
@@ -8,3 +8,4 @@ Api sunan Turk site ve servislerinin listesi
 - kapgel.com (http://doc.kapgel.com)
 - put.io (https://put.io/v2/docs/index.html)
 - Trcll.im (http://trcll.im/api)
+- IBB CitySDK (sadece Linked Data API) (http://devcitysdk.ibb.gov.tr)
