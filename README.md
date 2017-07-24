@@ -10,3 +10,7 @@ API sunan Turk site ve servislerinin listesi
 - Trcll.im (http://trcll.im/api)
 - IBB CitySDK (sadece Linked Data API) (http://devcitysdk.ibb.gov.tr)
 - Sourberry API (http://www.sourberry.org/api)
+- Akbank (https://apiportal.akbank.com)
+- Alotech (http://www.alotech.com.tr/dokumanlar/)
+- Bulutsantralim.com (http://www.bulutsantralim.com/dokumanlar/api-dokumani/)
+- Bulutfon (https://github.com/bulutfon/)
