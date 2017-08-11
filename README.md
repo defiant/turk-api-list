@@ -37,3 +37,4 @@ API sunan Turk site ve servislerinin listesi
 - THY (https://developer.turkishairlines.com)
 - Uptime Robot (https://uptimerobot.com/api)
 - Verimor SMS (http://www.verimor.com.tr/verimor-sms-api/)
+- Ininal https://developer.ininal.com
